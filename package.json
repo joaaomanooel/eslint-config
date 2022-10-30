@@ -1,0 +1,40 @@
+{
+  "name": "@joaaomanooel/eslint-config",
+  "version": "0.0.1",
+  "description": "ESLint configuration",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaaomanooel/eslint-config.git"
+  },
+  "keywords": [
+    "eslint-config",
+    "npm",
+    "package"
+  ],
+  "author": "João Manoel <joaaomanooel@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joaaomanooel/eslint-config/issues"
+  },
+  "homepage": "https://github.com/joaaomanooel/eslint-config#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.41.0",
+    "@typescript-eslint/parser": "^5.41.0",
+    "eslint": "^7.23.0 || ^8.26.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "prettier": "^2.7.1",
+    "eslint-plugin-react": "^7.31.8",
+    "eslint-plugin-react-hooks": "^4.6.0"
+  },
+  "peerDependencies": {
+    "eslint": "^7.23.0 || ^8.26.0",
+    "typescript": ">=4.8.4"
+  },
+  "peerDependenciesMeta": {
+    "typescript": {
+      "optional": true
+    }
+  }
+}

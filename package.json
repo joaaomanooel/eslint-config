@@ -1,8 +1,9 @@
 {
-  "name": "@joaaomanooel/eslint-config",
+  "name": "@manoel_joaoo/eslint-config",
   "version": "0.0.1",
   "description": "ESLint configuration",
   "main": "index.js",
+  "private": false,
   "repository": {
     "type": "git",
     "url": "git+https://github.com/joaaomanooel/eslint-config.git"

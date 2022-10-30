@@ -19,7 +19,7 @@
     "url": "https://github.com/joaaomanooel/eslint-config/issues"
   },
   "homepage": "https://github.com/joaaomanooel/eslint-config#readme",
-  "devDependencies": {
+  "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.41.0",
     "@typescript-eslint/parser": "^5.41.0",
     "eslint": "^7.23.0 || ^8.26.0",
